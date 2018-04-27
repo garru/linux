@@ -622,6 +622,12 @@ Info:   This overlay is now deprecated - see i2c-sensor
 Load:   <Deprecated>
 
 
+Name:   bq27441
+Info:   TI BQ27441 battery management
+Load:   dtoverlay=bq27441
+Params: <None>
+
+
 Name:   cma
 Info:   Set custom CMA sizes, only use if you know what you are doing, might
         clash with other overlays like vc4-fkms-v3d and vc4-kms-v3d.

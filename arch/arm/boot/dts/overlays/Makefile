@@ -30,8 +30,10 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	audiosense-pi.dtbo \
 	audremap.dtbo \
 	balena-fin.dtbo \
+	bmp085_i2c-sensor.dtbo \
+	bq27441.dtbo \
 	cma.dtbo \
-	dht11.dtbo \
+  dht11.dtbo \
 	dionaudio-loco.dtbo \
 	dionaudio-loco-v2.dtbo \
 	disable-bt.dtbo \
