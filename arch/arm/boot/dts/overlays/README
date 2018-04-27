@@ -2323,6 +2323,10 @@ Params: address                 Location in display memory of first character.
 
         For more information refer to the device datasheet at:
         https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
+Name:   ssd1322-spi
+Info:   Enable ssd1322 OLED display
+Load:   dtoverlay=ssd1322-spi
+Params: <None>
 
 
 Name:   superaudioboard
