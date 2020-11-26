@@ -24,3 +24,8 @@ dtoverlay=bq27441
 
 # Buttons and encoders
 dtoverlay=norns-buttons-encoders
+
+# USB host controller driver
+dtoverlay=dwc2
+
+# Kernel
